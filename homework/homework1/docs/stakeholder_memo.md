@@ -2,7 +2,7 @@
 
 **To:** Portfolio Managers, Quantitative Analysts, Individual Investors  
 **From:** Jinay Jain  
-**Date:** [Insert Date]  
+**Date:** 14th August 2025 
 **Subject:** Project Framing & Goals — Portfolio Optimization Using Deep Learning
 
 ---
