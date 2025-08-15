@@ -73,5 +73,3 @@ The insights generated will help investors make more informed allocation decisio
 - `/src/` → Scripts for modeling, feature engineering, backtesting
 - `/notebooks/` → Jupyter notebooks documenting experiments & results
 - `/docs/` → Stakeholder memo, slides, and reports
-
-**Update Cadence:** Weekly commits for each completed stage, starting with initial project framing
